@@ -19,3 +19,10 @@ Stuff that was covered in this course.
 
 ### 3. Emmit.io
 1. Use **emmit.io** as a guide book to get shorthand writing for HTML code.  
+
+
+### 4. Tag attributes
+1. Each tag may contain one or more attributes
+2. Each attribute will be associated with a value
+3. Go to MDN link to learn more about the tag and its values
+4. Anchor element: target = "_blank" creates a new tab
