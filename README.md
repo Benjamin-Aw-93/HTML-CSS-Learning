@@ -15,3 +15,7 @@ Stuff that was covered in this course.
 ### 2. Folder naming conventions
 1. Use alpha numeric [a-z, 0-9] for files, use underscore instead of spaces
 2. Similar to separation of concerns, split up files according to the functionalities of the folder
+
+
+### 3. Emmit.io
+1. Use **emmit.io** as a guide book to get shorthand writing for HTML code.  
