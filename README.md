@@ -25,4 +25,8 @@ Stuff that was covered in this course.
 1. Each tag may contain one or more attributes
 2. Each attribute will be associated with a value
 3. Go to MDN link to learn more about the tag and its values
-4. Anchor element: target = "_blank" creates a new tab
+4. Anchor element: target = "\_blank" creates a new tab
+
+### 5. Relative vs absolute link
+1. Relative link is based on the starting position of the file as the working directory
+2. Absolute link is based on the whole name of the folder, or the web url containing the information
